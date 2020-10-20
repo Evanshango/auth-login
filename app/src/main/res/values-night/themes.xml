@@ -1,0 +1,31 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Auth" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorTextWhite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorAccent</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextDefault">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorTextDefault</item>
+    </style>
+    <!---->
+    <style name="TextLabelDefault">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/colorTextLabelDefault</item>
+    </style>
+    <!---->
+    <style name="TextInputDefault">
+        <item name="android:textSize">18sp</item>
+        <item name="hintTextColor">@color/colorTextHintDefault</item>
+        <item name="android:textColor">@color/colorTextDefault</item>
+    </style>
+
+</resources>

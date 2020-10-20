@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Auth</string>
+    <string name="email">Email</string>
+    <string name="email_hint">john@doe.com</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="register_now">Don\'t Have an Account? Register Now</string>
+    <string name="reg_now">Register Now</string>
+    <string name="already_have_an_account_login_now">Already have an account? <b>Login Now</b></string>
+    <string name="name">Name</string>
+    <string name="name_hint">John Doe</string>
+    <string name="id">ID</string>
+    <string name="logout">Logout</string>
+</resources>
